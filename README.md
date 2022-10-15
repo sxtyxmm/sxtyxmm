@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Satyam Singh Shishodiya
-- 👀 I’m interested in making a lot og open-source contributions
+- 👀 I’m interested in making open-source contributions
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on various projects
 - 📫 you can reach me at shishodiyasatyam@gmail.com
