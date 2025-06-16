@@ -7,7 +7,6 @@
 </h1> 
 
 <a href="https://sxtyxmm.github.io/portfolio/">
-<img align="left" width="40%" src="https://user-images.githubusercontent.com/58609212/207463473-b7ab0528-9d94-4be7-ab9f-faa38c5ae716.png">
 </a>
 
 <samp>
