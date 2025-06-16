@@ -1,4 +1,3 @@
-````markdown name=README.md
 <h1 align=""> 
   Hi
   <img src="https://user-images.githubusercontent.com/58609212/207422854-a84c3fcb-6979-4228-a069-3c0a5819431e.gif" 
@@ -39,5 +38,3 @@ Currently, I am constantly learning and contributing to open-source projects.
 [![Website Badge](https://img.shields.io/badge/Personal_Website-ff6666?style=flat&logo=GoogleChrome&logoColor=white&link=https://sxtyxmm.github.io/portfolio/)](https://sxtyxmm.github.io/portfolio/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/satyam-shishodiya/)](https://www.linkedin.com/in/satyam-shishodiya/)
 [![Gmail Badge](https://img.shields.io/badge/mail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:shishodiyasatyam@gmail.com)](mailto:shishodiyasatyam@gmail.com)
-
-````
