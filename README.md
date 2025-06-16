@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/58609212/207422854-a84c3fcb-6979-4228-a069-3c0a5819431e.gif" 
          alt="Waving hand animated gif"         
          width="40"/>,
-   I'm <b> sxtyxmm 👨‍💻</b>
+   I'm <b> Satyam Shishodiya 👨‍💻</b>
 </h1> 
 
 <a href="https://sxtyxmm.github.io/portfolio/">
