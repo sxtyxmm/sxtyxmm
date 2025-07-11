@@ -34,6 +34,6 @@ Currently, I am constantly learning and contributing to open-source projects.
 <br> 
 # Feel Free to connect 🤝
 
-[![Website Badge](https://img.shields.io/badge/Personal_Website-ff6666?style=flat&logo=GoogleChrome&logoColor=white&link=https://sxtyxmm.github.io/portfolio/)](https://sxtyxmm.github.io/portfolio/)
+[![Website Badge](https://img.shields.io/badge/Personal_Website-ff6666?style=flat&logo=GoogleChrome&logoColor=white&link=https://sxtyxmm.github.io/)](https://sxtyxmm.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/satyam-shishodiya/)](https://www.linkedin.com/in/satyam-shishodiya/)
 [![Gmail Badge](https://img.shields.io/badge/mail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:shishodiyasatyam@gmail.com)](mailto:shishodiyasatyam@gmail.com)
